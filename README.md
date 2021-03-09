@@ -18,4 +18,4 @@ Developer: [mario-sanz][mariosanz]
 [connect-4]: https://en.wikipedia.org/wiki/Connect_Four
 [pygame]: https://www.pygame.org/news
 [mariosanz]: https://github.com/mario-sanz
-[issues-page]: https://github.com/mario-sanz/Connect4-AI/issues
+[issues-page]: https://github.com/mario-sanz/Connect4/issues
